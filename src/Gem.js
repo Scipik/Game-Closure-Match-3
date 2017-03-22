@@ -24,7 +24,7 @@ exports = Class(ui.ImageView, function(supr) {
         
         supr(this, 'init', [opts]);
         
-        // this.x = opts.x;
+        // this.x = opts.x;s
         // this.y = opts.y;
         
         this.build();
