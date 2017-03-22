@@ -1,0 +1,17 @@
+{
+  "appID": "8d59b66425714a6f900c80fa07618731",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#master"
+  },
+  "shortName": "GemCraze",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "GemCraze"
+}
